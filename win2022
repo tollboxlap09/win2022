@@ -3,7 +3,7 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "11"
+      VERSION: "2022"
       USERNAME: "toolboxlap"
       PASSWORD: "admin@123"
       RAM_SIZE: "6G"
